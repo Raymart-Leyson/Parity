@@ -1,0 +1,15 @@
+D:\Codes\Parity\bin\Debug\net8.0\Parity.exe
+D:\Codes\Parity\bin\Debug\net8.0\Parity.deps.json
+D:\Codes\Parity\bin\Debug\net8.0\Parity.runtimeconfig.json
+D:\Codes\Parity\bin\Debug\net8.0\Parity.dll
+D:\Codes\Parity\bin\Debug\net8.0\Parity.pdb
+D:\Codes\Parity\obj\Debug\net8.0\Parity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Parity\obj\Debug\net8.0\Parity.AssemblyInfoInputs.cache
+D:\Codes\Parity\obj\Debug\net8.0\Parity.AssemblyInfo.cs
+D:\Codes\Parity\obj\Debug\net8.0\Parity.csproj.CoreCompileInputs.cache
+D:\Codes\Parity\obj\Debug\net8.0\Parity.sourcelink.json
+D:\Codes\Parity\obj\Debug\net8.0\Parity.dll
+D:\Codes\Parity\obj\Debug\net8.0\refint\Parity.dll
+D:\Codes\Parity\obj\Debug\net8.0\Parity.pdb
+D:\Codes\Parity\obj\Debug\net8.0\Parity.genruntimeconfig.cache
+D:\Codes\Parity\obj\Debug\net8.0\ref\Parity.dll
